@@ -42,7 +42,7 @@ If you haven't installed Python yet, you need to download and install the latest
 
 #### To clone the repository:
 ```bash
-git clone https://github.com/012Abhishek/img2pdf-converter.git
+git clone https://github.com/Abhishek24296/img2pdf-converter.git
 ```
 
 Alternatively, download the ZIP and extract it.
